@@ -7,10 +7,7 @@ namespace Aula_15_Checkpoint
         {
 
             Convercao convercao = new();
-            convercao.conversao();
-           
-
-
+            convercao.EscolherMoeda();
         }
 
         

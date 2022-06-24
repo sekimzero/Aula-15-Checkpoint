@@ -5,11 +5,12 @@ namespace Aula_15_Checkpoint
     {
         static void Main(string[] args)
         {
-
+            Input imput = new Input();
+            imput.EscolherMoeda();
             
-            Convercao convercao = new();
-            convercao.Valores();
-            convercao.EscolherMoeda();
+           // Conversao conversao = new();
+           //conversao.Valores();
+           // conversao.EscolherMoeda();
         }
 
         

@@ -6,7 +6,9 @@ namespace Aula_15_Checkpoint
         static void Main(string[] args)
         {
 
+            
             Convercao convercao = new();
+            convercao.Valores();
             convercao.EscolherMoeda();
         }
 
